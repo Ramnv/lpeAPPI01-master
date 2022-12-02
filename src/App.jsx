@@ -10,7 +10,10 @@ import Pets from './componentes/telas/pet/Pet'
 import MenuPrivado from './componentes/MenuPrivado'
 import MenuPublico from './componentes/MenuPublico'
 
+// Faltou import login
 import Login from './componentes/telas/login/Login'
+
+
 
 // function App() {
 //   return (
